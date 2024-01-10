@@ -9,9 +9,20 @@ body {
 
 main{
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.268);
 
+}
+
+img.lado{
+    float: right;
+    height: 60px;
+    width: 60px;
+}
+
+#voltar{
+    height: 40px;
+    width: 40px;
 }
